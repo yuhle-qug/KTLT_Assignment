@@ -1,3 +1,8 @@
+// Name:Lê Quang Huy
+// Student ID: 20237344
+// Class: 752580
+// Project: lab 1
+// Date: 27/04/2025
 #include<stdio.h> 
 
 void NumAppend(int arr[],int n){
@@ -26,7 +31,7 @@ void NumAppend(int arr[],int n){
             ele = i;
         }
     }
-    printf("\n Phan tu %d xuat hien nhieu nhat voi %d lan", ele, maxNum);
+    printf("\nPhan tu %d xuat hien nhieu nhat voi %d lan", ele, maxNum);
 }
 int main(){
     int n; 
