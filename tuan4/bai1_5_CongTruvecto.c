@@ -1,3 +1,8 @@
+// Name:Lê Quang Huy
+// Student ID: 20237344
+// Class: 752580
+// Project: lab 1
+// Date: 27/04/2025
 #include <stdio.h>
 
 void cong(int n, const int arr1[], const int arr2[]) {

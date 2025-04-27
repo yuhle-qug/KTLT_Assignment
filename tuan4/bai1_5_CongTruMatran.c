@@ -1,3 +1,8 @@
+// Name:Lê Quang Huy
+// Student ID: 20237344
+// Class: 752580
+// Project: lab 1
+// Date: 27/04/2025
 #include <stdio.h>
 #define MAX_SIZE 100 
 
@@ -99,6 +104,6 @@ int main() {
     }
     
     matrixPlus(n, m, arr1, arr2, result);
-    
+    matrixMinus(n, m, arr1, arr2, result);
     return 0;
 }
