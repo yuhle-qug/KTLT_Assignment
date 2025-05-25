@@ -1,3 +1,8 @@
+// Name:Lê Quang Huy
+// Student ID: 20237344
+// Class: 752580
+// Project: lab 1
+// Date: 25/05/2025
 #include <stdio.h>
 #include <stdlib.h>
 
