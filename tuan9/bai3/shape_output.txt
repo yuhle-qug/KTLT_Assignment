@@ -1,0 +1,56 @@
+
+hinh ban dau
+  So dinh: 3
+  Tam (tinh toan): (11.67, 21.67)
+  Cac dinh:
+    Dinh 1: (10.00, 10.00)
+    Dinh 2: (20.00, 30.00)
+    Dinh 3: (5.00, 25.00)
+
+hinh sau khi doi xung qua truc X
+  So dinh: 3
+  Tam (tinh toan): (11.67, -21.67)
+  Cac dinh:
+    Dinh 1: (10.00, -10.00)
+    Dinh 2: (20.00, -30.00)
+    Dinh 3: (5.00, -25.00)
+
+hinh sau khi doi xung qua truc Y
+  So dinh: 3
+  Tam (tinh toan): (-11.67, 21.67)
+  Cac dinh:
+    Dinh 1: (-10.00, 10.00)
+    Dinh 2: (-20.00, 30.00)
+    Dinh 3: (-5.00, 25.00)
+
+hinh sau khi doi xung qua tam hinh
+  So dinh: 3
+  Tam (tinh toan): (11.67, 21.67)
+  Cac dinh:
+    Dinh 1: (13.33, 33.33)
+    Dinh 2: (3.33, 13.33)
+    Dinh 3: (18.33, 18.33)
+
+hinh sau khi quay 90 do quanh tam hinh
+  So dinh: 3
+  Tam (tinh toan): (11.67, 21.67)
+  Cac dinh:
+    Dinh 1: (23.33, 20.00)
+    Dinh 2: (3.33, 30.00)
+    Dinh 3: (8.33, 15.00)
+
+hinh sau khi phong to x2 quanh tam hinh
+  So dinh: 3
+  Tam (tinh toan): (11.67, 21.67)
+  Cac dinh:
+    Dinh 1: (8.33, -1.67)
+    Dinh 2: (28.33, 38.33)
+    Dinh 3: (-1.67, 28.33)
+
+hinh sau khi thu nho x0.5 quanh goc toa do
+  So dinh: 3
+  Tam (tinh toan): (5.83, 10.83)
+  Cac dinh:
+    Dinh 1: (5.00, 5.00)
+    Dinh 2: (10.00, 15.00)
+    Dinh 3: (2.50, 12.50)
